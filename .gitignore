@@ -14,3 +14,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+.gradletasknamecache
+gradle
