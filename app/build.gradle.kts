@@ -39,6 +39,11 @@ android {
     composeOptions {
         kotlinCompilerExtensionVersion = "1.5.8"
     }
+
+    androidResources {
+        generateLocaleConfig = true
+    }
+
 }
 
 dependencies {
